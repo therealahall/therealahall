@@ -10,10 +10,10 @@
 
 ## 🧰 My tools
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" width="50" height="50" alt="circleci" />
+    <img style="filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" width="50" height="50" alt="circleci" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="docker" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="git" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" height="50" alt="github" />
+    <img style="filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" height="50" alt="github" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="50" height="50" alt="jira" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" width="50" height="50" alt="phpstorm" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="50" height="50" alt="slack" />
@@ -31,12 +31,12 @@
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg" width="50" height="50" alt="cakephp" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="50" height="50" alt="laravel" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" width="50" height="50" alt="symfony" />
+    <img style="filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" width="50" height="50" alt="symfony" />
 </div>
 
 ## 💾 My OSes
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="50" height="50" alt="apple" />
+    <img style="filter: brightness(0) invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="50" height="50" alt="apple" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" width="50" height="50" alt="centos" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="linux" />
 </div>
