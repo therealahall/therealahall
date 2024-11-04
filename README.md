@@ -1,11 +1,14 @@
-# 👋 Hello!
-<a href="https://infosec.exchange/@therealahall" target="_blank"><img src="./icons/mastodon.png" width="50" /></a> 
+# 👋 Hello, I'm Aaron!
+I'm a Senior Engineering Manager who still finds plenty of time to code. Most of my history has been in backend engineering, leveraging PHP and MySQL, but I try to continue to learn new technology regularly.
+
+<a href="https://gamerstavern.online/@therealahall" target="_blank"><img src="./icons/mastodon.png" width="50" /></a> 
 
 ## 💬 My languages
 
 <div>
     <img style="padding-right: 5px;" src="./icons/php.png" width="50" alt="php" />
     <img style="padding-right: 5px;" src="./icons/mysql.png" width="50" alt="mysql" />
+    <img style="padding-right: 5px;" src="./icons/graphql.png" width="50" alt="graphql" />
 </div>
 
 ## 🧰 My tools
@@ -43,6 +46,7 @@
 
 ## 🧑‍🎓 Learning
 <div>
-    <img style="padding-right: 5px;" src="./icons/graphql.png" width="50" alt="graphql" />
     <img style="padding-right: 5px;" src="./icons/vue.png" width="50" alt="vue" />
+    <img style="padding-right: 5px;" src="./icons/python.png" width="50" alt="python" />
+    <img style="padding-right: 5px;" src="./icons/godot.png" width="50" alt="godot" />
 </div>
